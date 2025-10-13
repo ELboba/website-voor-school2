@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+
+}
+
+.body{
+font-family: 'outfit';
+
+}
+
+
+.fs-form {
+display:grid;
+height: 100vh;
+color: white;
+align-items: center;
+justify-content: space-evenly;
+}
+
+.fs-field{
+display: flex;
+flex-direction: column; 
+margin-bottom: 1rem;
+
+}
+
+.fs-input{
+width: 400px;
+height: 40px;
+border:none;
+outline: none;
+padding-left: 25px;
+font-weight: 500;
+border-radius: 50px;
+
+}
+
+.fs-textarea{
+width: 400px;
+height: 40px;
+border:none;
+outline: none;
+padding-left: 25px;
+font-weight: 500;
+border-radius: 50px;
+
+}
+
+.form-field-send{
+  background-color: hsl(180, 12%, 63%);
+  color: hsl(0, 3%, 29%);
+font-size : 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bg-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+
+.content {
+  position: relative;
+  z-index: 1;
+  color: white; 
+  padding: 2rem;
+}
+
+
+h2 {
+color: white;
+}
