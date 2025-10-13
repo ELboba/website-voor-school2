@@ -103,3 +103,8 @@ ul li:hover ul.dropdown{
   color: white; 
   padding: 2rem;
 }
+
+.titel{
+  color: white;
+font: 20px impact, sans-serif;
+}
