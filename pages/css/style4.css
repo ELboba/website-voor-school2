@@ -155,7 +155,7 @@ color: white;
   display: inline-flex;
   align-items: center;
   text-decoration: none;
-  color: #E1306C; 
+  color: #E1306C;  
   font-weight: bold;
   font-size: 1.1rem;
   transition: color 0.3s ease;
@@ -170,5 +170,6 @@ color: white;
   height: 64px;
   margin-right: 8px;
 }
+
 
 

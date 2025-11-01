@@ -3,8 +3,10 @@
 
 
 
+.aboutme2{
+color: white
 
-
+}
 
 h1 {
   color: white;
@@ -90,10 +92,25 @@ ul li:hover ul.dropdown{
 
 
     
+.aboutme{
+  padding: 25px;
+  color: white;
+  font: 20px impact, sans-serif;
+}
 
 
 
 
+.img3 {
+  width: 150px;           
+  height: 150px;          
+  border-radius: 50%;      
+  display: block;
+  margin: 10px auto 0;     
+  object-fit: cover;     
+  border: 3px solid #ddd; 
+  margin-left: 30px
+}
 
 
 
